@@ -1,0 +1,14 @@
+# Python 2.7.9
+
+# Model
+nengo>=2.7.0
+numpy>=1.12.1
+git+https://github.com/macknowak/simtools@c1b3298cffc116be0c9961e26df10a846610397e#egg=simtools
+git+https://github.com/macknowak/vrepsim@6d8867ecbadace30ac0140097cfc50a40af5b809#egg=vrepsim
+
+# + GUI
+nengo-gui==0.3.1
+
+# + Plots
+matplotlib>=1.4.2
+nengo-extras==0.3.0

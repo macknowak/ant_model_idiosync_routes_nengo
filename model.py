@@ -83,7 +83,7 @@ recommended robot model offered by V-REP is Pioneer_p3dx.
 This module was developed for Nengo 2.7.0 and V-REP 3.4.0.
 """
 
-__version__ = '1.0dev'
+__version__ = '1.0'
 __author__ = "Przemyslaw (Mack) Nowak"
 
 import os

@@ -9,7 +9,7 @@ handled using the V-REP remote API.
 This script was developed for Nengo 2.7.0, Nengo GUI 0.3.1, and V-REP 3.4.0.
 """
 
-__version__ = '1.0dev'
+__version__ = '1.0'
 __author__ = "Przemyslaw (Mack) Nowak"
 
 import os

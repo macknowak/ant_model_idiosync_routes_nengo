@@ -1,7 +1,7 @@
 """Navigation to a sequence of goals."""
 
 # Experiment version
-experiment_version = '1.0dev'
+experiment_version = '1.0'
 
 # Location parameters
 scene_radius = 10.0
